@@ -1,0 +1,25 @@
+#web-GL-calendar-account-wrapper {
+	position: relative;
+	right: 381px;
+	width: 600px;
+	top: 453px;
+	display: block;
+}
+
+#web-GL-calendar-account-right-align {
+	width: 100%;
+}
+
+#web-GL-calendar-account-menu {
+	display: block;
+	width: 40px;
+	height: 40px;
+	background-color: #999924;
+	border-bottom-left-radius: 35px;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}	
+#web-GL-calendar-account-menu:hover {	
+	background-color: #DDDD3F;
+}

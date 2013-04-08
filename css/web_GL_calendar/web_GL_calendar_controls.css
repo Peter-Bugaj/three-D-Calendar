@@ -1,0 +1,64 @@
+.web-GL-calendar-zoom-control {
+	width: 68px;
+	height: 26px;
+	margin-bottom: -26px;
+	margin-right: -68px;
+	font-size: 17px;
+	color: white;
+	border: none;
+	background: #900;
+	position: relative;
+	left: 912px;
+	display: block;
+}
+.web-GL-calendar-zoom-control:hover {
+	color: #E4F0A7;
+	background: #A53939;
+}
+.web-GL-calendar-zoom-control:active {
+	color: #A53939;
+	background: #DB2853;
+}
+	
+.web-GL-calendar-zoom-in {
+	bottom: 77px;
+}
+
+.web-GL-calendar-zoom-out {	
+	bottom: 46px;
+}
+	
+.web-GL-calendar-view {
+	display: block;
+	position: relative;
+	left: 25px;
+	margin-bottom: -26px;
+	margin-right: -68px;
+	width: 68px;
+	height: 26px;
+	background-size: 68px 26px;
+}
+
+.web-GL-calendar-view-2D {
+	bottom: 77px;
+	background-image: url(../../images/view-change-icon-2D.png);
+}
+
+.web-GL-calendar-view-3D {
+	bottom: 46px;
+	background-image: url(../../images/view-change-icon-3D.png);
+}
+	
+.web-GL-calendar-view-highlight {
+	background: white;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+}
+.web-GL-calendar-view-highlight:hover {
+	opacity: 0.2;
+}
+.web-GL-calendar-view-highlight:active {
+	opacity: 0.6;
+	background: rgb(221, 221, 255);
+}

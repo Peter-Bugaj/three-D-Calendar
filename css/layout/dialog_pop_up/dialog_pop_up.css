@@ -1,0 +1,10 @@
+#dialog-pop-up-main-entry {
+	position: relative;
+	display: none;
+	top: -420px;
+	left: 340px;
+	width: 320px;
+	height: 300px;
+	margin-bottom: -300px;
+	margin-right: -320px;
+}

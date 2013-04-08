@@ -1,0 +1,51 @@
+#index-html {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+#index-body {
+	margin: 0px;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+#index-top-table {
+	display: table;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+#index-header {
+	display: table-row;
+	position: relative;
+}
+
+#index-content {
+	display: table-row;
+	position: relative;	
+}
+
+#index-content-center {
+	display: table-cell;
+	position: relative;	
+}
+
+#index-content-left {
+	display: table-cell;
+	position: relative;
+	width: 50%;
+}	
+
+#index-content-right {
+	display: table-cell;
+	position: relative;
+	width: 50%;
+}
+	
+#index-footer {
+	display: table-row;
+	position: relative;
+}

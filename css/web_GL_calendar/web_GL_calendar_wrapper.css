@@ -1,0 +1,10 @@
+#web-GL-calendar-wrapper {
+	border: solid;
+	margin: -2px;
+	border-radius: 50px;
+	width: 1000px;
+	height: 480px;
+	border-width: 15px;
+	border-spacing: 0;
+	background-color: black;
+}

@@ -1,0 +1,17 @@
+#web-GL-calendar-main-calendar-container {
+	position: relative;
+	width: 1000px;
+	height: 480px;
+	display: block;
+	overflow: hidden;
+	background-color: white;
+}
+
+#web-GL-calendar-main-calendar {
+	position: relative;
+	top: 0px;
+	height: 480px;
+	width: 1000px;
+	display: inline;
+	border: none;
+}
