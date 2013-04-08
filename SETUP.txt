@@ -1,0 +1,14 @@
+This project runs under any web server such as the one hosted by Apache.
+See how to set up WAMP for Windows at (www.wampserver.com) or MAMP for MAC at (www.mamp.info)
+
+Next add the three-D-Calendar directory under the virtual host directory, existing
+in the location of where you had setup your server.
+
+Finally, download the jquery library (http://jquery.com/download/) and the WebGL helper library
+(https://github.com/toji/gl-matrix) and add the downloaded files:
+glMatrix-[version-x].min.js, jquery-[version-x].min.js to your three-D-Calendar/lib directory.
+
+To see the calendar running in action, visit http://www.piotrekoper.com/Calendar/php/
+or contact bugaj.peter@gmail.com for more info.
+
+Have fun!
